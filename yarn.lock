@@ -360,7 +360,7 @@
     fast-json-stable-stringify "^2.1.0"
     tslib "^2.4.0"
 
-"@graphql-tools/schema@^10.0.0":
+"@graphql-tools/schema@^10.0.0", "@graphql-tools/schema@^10.0.2":
   version "10.0.2"
   resolved "https://registry.yarnpkg.com/@graphql-tools/schema/-/schema-10.0.2.tgz#21bc2ee25a65fb4890d2e5f9f22ef1f733aa81da"
   integrity sha512-TbPsIZnWyDCLhgPGnDjt4hosiNU2mF/rNtSk5BVaXWnZqvKJ6gzJV4fcHcvhRIwtscDMW2/YTnK6dLVnk8pc4w==
@@ -397,7 +397,7 @@
   dependencies:
     tslib "^2.4.0"
 
-"@graphql-tools/utils@^10.0.10":
+"@graphql-tools/utils@^10.0.10", "@graphql-tools/utils@^10.0.11":
   version "10.0.11"
   resolved "https://registry.yarnpkg.com/@graphql-tools/utils/-/utils-10.0.11.tgz#1238fbe37e8d6c662c48ab2477c98269d6fd851a"
   integrity sha512-vVjXgKn6zjXIlYBd7yJxCVMYGb5j18gE3hx3Qw3mNsSEsYQXbJbPdlwb7Fc9FogsJei5AaqiQerqH4kAosp1nQ==

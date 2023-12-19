@@ -42,7 +42,7 @@ const resolvers = {
       const message = {
         id: messageId,
         createdAt: new Date(),
-        content,
+        content, 
       };
 
       messages.push(message);

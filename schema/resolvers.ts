@@ -60,8 +60,8 @@ const resolvers = {
 
       if (chatIndex === -1) return '404';
 
-      console.log(chatIndex)
-      chats.splice(chatIndex);
+      //console.log(chatIndex)
+      chats.splice(chatIndex, 1);
       return '200';
     },
   },

@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "nodemon ./dist/index.js",
     "format": "prettier \"**/*.ts\" --write"
   },
   "devDependencies": {

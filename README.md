@@ -1,2 +1,3 @@
 - yarn install
-- nodemon
+- yarn start
+- Aller à l'url suivante pour jouer avec Apollo Explorer : https://studio.apollographql.com/sandbox/explorer
